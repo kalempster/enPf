@@ -1,14 +1,20 @@
 {
   "files": {
     "main.css": "/enPf/static/css/main.c2acac4e.css",
-    "main.js": "/enPf/static/js/main.c358953d.js",
+    "main.js": "/enPf/static/js/main.8c995b27.js",
     "static/media/woff": "/enPf/static/media/3bdef1251a424500c1b3a78dea9b7e57.c267a17da13d9a7c3ba0.woff",
+    "static/media/soundcloud-brands.svg": "/enPf/static/media/soundcloud-brands.bca812a894b9e3c9195a27ac352a01b8.svg",
+    "static/media/instagram-brands.svg": "/enPf/static/media/instagram-brands.7c6bfe4680b1cacb69d906510226cbf9.svg",
+    "static/media/spotify-brands.svg": "/enPf/static/media/spotify-brands.857f8233fe310898757f403a2e757c77.svg",
     "index.html": "/enPf/index.html",
+    "static/media/youtube-brands.svg": "/enPf/static/media/youtube-brands.63b5654158b0d7a0183bd3faadf2ad14.svg",
+    "static/media/bars-solid.svg": "/enPf/static/media/bars-solid.0671bc5b9388995c7446ee5e448f585d.svg",
+    "static/media/twitch-brands.svg": "/enPf/static/media/twitch-brands.ef69aeb3bab26fbdef536586ada303ea.svg",
     "main.c2acac4e.css.map": "/enPf/static/css/main.c2acac4e.css.map",
-    "main.c358953d.js.map": "/enPf/static/js/main.c358953d.js.map"
+    "main.8c995b27.js.map": "/enPf/static/js/main.8c995b27.js.map"
   },
   "entrypoints": [
     "static/css/main.c2acac4e.css",
-    "static/js/main.c358953d.js"
+    "static/js/main.8c995b27.js"
   ]
 }
